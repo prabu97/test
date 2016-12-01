@@ -1,3 +1,10 @@
+git config --global user.name "prabu97"
+git config --global user.email "manigaDndaprabu97@gmail.com"
+
+git init
+git remote add orgin https://github.com/prabu97/test.git
 git add .
 git commit -m 'fist'
 git push orgin master
+
+git clone https://github.com/prabu97/test.git
